@@ -1,0 +1,23 @@
+{
+  "name": "fefl04handson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MHolmes83/FEFL04HandsOn.git"
+  },
+  "author": "Morgaan Holmes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MHolmes83/FEFL04HandsOn/issues"
+  },
+  "homepage": "https://github.com/MHolmes83/FEFL04HandsOn#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^17.0.2"
+  }
+}
